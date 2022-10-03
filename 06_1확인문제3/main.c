@@ -1,0 +1,12 @@
+#include <stdio.h>
+#define _CRT_SECURE_NO_WARNINGS
+int main(void)
+{
+	int i;
+	for (i = 0;i < 10;i++)
+	{
+		printf("$");
+
+	}
+	return 0;
+}
